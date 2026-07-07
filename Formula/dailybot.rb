@@ -3,8 +3,8 @@ class Dailybot < Formula
 
   desc "The command-line bridge between humans and agents"
   homepage "https://www.dailybot.com"
-  url "https://files.pythonhosted.org/packages/source/d/dailybot-cli/dailybot_cli-1.18.0.tar.gz"
-  sha256 "216f5232a81e4876f067e902688d311ffed70290b2c48570d5ad887e8ddd67d7"
+  url "https://files.pythonhosted.org/packages/source/d/dailybot-cli/dailybot_cli-1.18.1.tar.gz"
+  sha256 "0b91744777fe280fc833387abaf6596bf931ef2ebf8e2711b21f430bf428e6fc"
   license "MIT"
 
   depends_on "python@3.12"
